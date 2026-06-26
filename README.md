@@ -1,1 +1,1 @@
-Exercism exercises in C#
+C# exercises in Exercism
